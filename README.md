@@ -14,12 +14,11 @@ Welcome to my technical repository. This space serves as a live documentation hu
 This repository is systematically organized into core modules to track distinct technical competencies:
 
 ### 📑 1. Core Learning Logs
-*   [01-Pre-Security-Foundation-Log.md](./01-Pre-Security-Foundation-Log.md) — Initial deployment tracking and fundamental baseline metrics.
-*   [02-Pre-Security-Core-Modules.md](./02-Pre-Security-Core-Modules.md) — Comprehensive deep dives into Network Fundamentals, Web Mechanics, and System Virtualization.
+*   [01-Pre-Security-Core-Modules.md](./01-Pre-Security-Core-Modules.md) — Comprehensive deep dives into Network Fundamentals, Web Mechanics, and System Virtualization.
 
 ### 🔍 2. Advanced Security Operations (Upcoming)
-*   `[03-SOC-Incident-Response.md]` — Traffic analysis (Wireshark), event investigation, and endpoint defensive log analysis.
-*   `[04-SIEM-Splunk-Triage.md]` — Threat hunting, continuous monitoring architecture, and alert management metrics.
+*   `[02-SOC-Incident-Response.md]` — Traffic analysis (Wireshark), event investigation, and endpoint defensive log analysis.
+*   `[03-SIEM-Splunk-Triage.md]` — Threat hunting, continuous monitoring architecture, and alert management metrics.
 
 ---
 
