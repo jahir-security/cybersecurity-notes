@@ -20,6 +20,7 @@ This repository is systematically organized into core modules to track distinct 
 *   [06-16-2026-OS-Windows-Fundamentals.md](./logs/06-16-2026-OS-Windows-Fundamentals.md) — Deep dive into OS architecture and Windows systems administration.
 *   [06-17-2026-CLI-Administration-Operations.md](./logs/06-17-2026-CLI-Administration-Operations.md) — Advanced command-line enumeration and system administration across Linux and Windows environments.
 *   [06-18-2026-OS-Security-Authentication.md](./logs/06-18-2026-OS-Security-Authentication.md) — Encrypted remote access, post-exploitation lateral movement, and Base-16 data architecture.
+*   [06-19-2026-Data-Encoding-Python-Basics.md](./logs/06-19-2026-Data-Encoding-Python-Basics.md) — Analysis of character encoding standards (Unicode/UTF) and Python programmatic control flows.
 ### 🔍 2. Advanced Security Operations (Upcoming)
 *   `[02-SOC-Incident-Response.md]` — Traffic analysis (Wireshark), event investigation, and endpoint defensive log analysis.
 *   `[03-SIEM-Splunk-Triage.md]` — Threat hunting, continuous monitoring architecture, and alert management metrics.
