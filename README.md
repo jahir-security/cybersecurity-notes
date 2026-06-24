@@ -25,7 +25,7 @@ This repository utilizes a nested architecture. Select a track below to review d
 
 ### 🛡️ 2. Cyber Security 101 Foundations
 *Focus: Linux/Windows command-line mechanics, defensive infrastructure, SIEM fundamentals, intrusion detection systems, and tactical decoding using CyberChef.*
-*   **[View Cyber Security 101 Logs](./logs/cybersec101/)**
+*   **[View Cyber Security 101 Logs](./logs/cybersecurity101/)**
 
 ### 🔍 3. Security Operations & Defensive Triage
 *Focus: Threat hunting, SIEM log analysis, traffic analysis (Wireshark), and incident response mechanics.*
