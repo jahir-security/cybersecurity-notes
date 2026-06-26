@@ -14,7 +14,7 @@ Began hands-on programmatic automation execution. Python scripting is the primar
 *   **Conditional Logic:** Implemented structural evaluation paths utilizing `if`, `elif`, and `else` statements to guide programmatic behavior based on variable input conditions.
 *   **Iteration Controls:** Deployed loops (`for` and `while`) to automate repetitive scanning sequences, list parsing, and dictionary tracking.
 *   **Pseudo-Random Number Generation:** Leveraged the native `random` library to inject algorithmic unpredictability into scripts.
-*   **`random.randint()` Execution:** Mastered the syntactic usage of `random.randint(a, b)` to produce pseudo-random integers within specified boundaries inclusive. *Security Application:* This mechanism is critical when script development requires randomized timing delays (jitter) to bypass rate-limiting security controls, generating random network ports, or simulating fuzzing inputs.
+*   **`random.randint()` Execution:** Basic understanding of syntactic usage of `random.randint(a, b)` to produce pseudo-random integers within specified boundaries inclusive. *Security Application:* This mechanism is critical when script development requires randomized timing delays (jitter) to bypass rate-limiting security controls, generating random network ports, or simulating fuzzing inputs.
 
 ## 💡 Key Takeaway
 A security analyst must understand how data is structured at rest via UTF standards to correctly detect obfuscated malicious payloads. Pairing this knowledge with custom Python control loops allows for the immediate scaling and automation of defensive triage scripts.
