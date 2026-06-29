@@ -21,6 +21,8 @@ tcp.port == 80
 http
 ### What I Learned
 I learned how to stop getting overwhelmed by massive packet capture files. By using simple display filters and the "Follow Stream" feature, I can easily cut through the noise and read the actual conversations happening over the network. I also learned practical ways to deal with complex real-world traffic—like decrypting secure TLS packets with a key log file, searching for specific hidden keywords, and pulling actual files right out of the packet data to analyze them in the Linux terminal. I now have a solid, hands-on understanding of how to find exactly what I am looking for instead of just guessing.
+
+
 <img width="923" height="688" alt="image" src="https://github.com/user-attachments/assets/39ae2240-3d75-4e9d-891d-9932089b31c2" />
 <img width="838" height="527" alt="image" src="https://github.com/user-attachments/assets/e2f8c499-11dd-48cf-b08c-fbfd6264f23f" />
 
